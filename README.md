@@ -1,1 +1,2 @@
 # wordlist
+# from kali linux
